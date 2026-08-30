@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2000-lending-flash-loan-and-repay-flash-loan-never",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2000-lending-flash-loan-and-repay-flash-loan-never": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2000-lending-flash-loan-and-repay-flash-loan-never",
+    "origin"
+  ]
+}
